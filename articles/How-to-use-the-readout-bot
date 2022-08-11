@@ -1,0 +1,12 @@
+# KuronekoServerの読み上げbotの使い方
+
+## VOICEROID読み上げbot
+
+|bot名|prefix|/コマンド対応|
+|------|-----|-----|
+|VOICEROID 読み上げbot|r!|〇|
+|VOICEROID 読み上げbot 2代目|rr!|〇|
+|VOICEVOX 読み上げbot|v!|〇|
+|VOICEVOX 読み上げbot 2代目|vv!|〇|
+|COEIROINK 読み上げbot|c!|〇|
+|COEIROINK 読み上げbot 2代目|cc!|〇|
